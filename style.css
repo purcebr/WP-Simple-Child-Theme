@@ -1,0 +1,12 @@
+/*
+ Theme Name:   Natural Moves Yoga
+ Theme URI:    http://www.naturalmovesyoga.com/
+ Description:  WP Simple Child Theme
+ Author:       TODO
+ Template:     wp-simple
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  natural-moves-yoga
+*/
+
+@import url("../wp-simple/style.css");
